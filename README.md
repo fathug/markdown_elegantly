@@ -60,6 +60,8 @@ Typora是实时渲染的编辑器，目前是收费使用，自行安装即可�
 
    设为默认图床即可
 
+   （其他图床可参考[PicGo官方文档](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github%E5%9B%BE%E5%BA%8A)）
+
 4. 配置Typora
 
    进入设置，设置如下：
@@ -69,5 +71,3 @@ Typora是实时渲染的编辑器，目前是收费使用，自行安装即可�
    > 上传服务设定：选择PicGo(app)、路径选择PicGo.exe的路径，例如`C:\Program Files\PicGo\PicGo.exe`
    >
    > 点击*验证图片上传选项*
-
-   
