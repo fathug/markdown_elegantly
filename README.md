@@ -1,20 +1,6 @@
 # markdown_elegantly
  How to write markdown elegantly. Continuously updating...
 
-------
-
-[如何用VSCode写markdown](#---vscode-markdown)
-
-- [关于预览](#----)
-- [关于如何快捷贴入图片，并上传至图床](#-----------------)
-- [关于其他易于使用的插件](#-----------)
-
-[如何用Typora写markdown](#---typora-markdown)
-
-- [关于如何快捷贴入图片，并上传至图床](#------------------1)
-
-------
-
 ## 如何用VSCode写markdown
 
 #### 关于预览
