@@ -1,5 +1,5 @@
 # markdown_elegantly
- How to write markdown elegantly
+ How to write markdown elegantly. Continuously updating...
 
 ## 如何用VSCode写markdown
 
