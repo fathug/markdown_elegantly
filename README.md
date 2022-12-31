@@ -1,6 +1,8 @@
 # markdown_elegantly
  How to write markdown elegantly. Continuously updating...
 
+[TOC]
+
 ## 如何用VSCode写markdown
 
 #### 关于预览
