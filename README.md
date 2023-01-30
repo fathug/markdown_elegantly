@@ -71,3 +71,19 @@ Typora是实时渲染的编辑器，目前是收费使用，自行安装即可�
    > 上传服务设定：选择PicGo(app)、路径选择PicGo.exe的路径，例如`C:\Program Files\PicGo\PicGo.exe`
    >
    > 点击*验证图片上传选项*
+
+## other references
+
+https://picgo.github.io/PicGo-Doc/zh/guide/config.html
+
+https://www.bilibili.com/read/cv14926071
+
+https://www.cnblogs.com/E-Dreamer-Blogs/p/14346990.html#_label4
+
+https://blog.csdn.net/qq_43367829/article/details/104882071
+
+https://zhuanlan.zhihu.com/p/367529569
+
+https://blog.csdn.net/qq_54650406/article/details/127436376
+
+https://blog.csdn.net/u011130655/article/details/113019296
