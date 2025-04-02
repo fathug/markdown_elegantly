@@ -1,5 +1,8 @@
 # markdown_elegantly
- How to write markdown elegantly. Continuously updating...
+
+如何优雅地用Markdown写内容。持续补充中。
+
+How to write markdown elegantly. Continuously updating.
 
 ## 如何用VSCode写markdown
 
@@ -30,7 +33,7 @@
 
 ## 如何用Typora写markdown
 
-Typora是实时渲染的编辑器，目前是收费使用，自行安装即可。
+Typora是实时渲染的编辑器，目前是收费使用，自行安装即可。囊中羞涩的可以找找学习版，目前有的版本还是可以crack的。
 
 #### 关于如何快捷贴入图片，并上传至图床
 
@@ -72,7 +75,7 @@ Typora是实时渲染的编辑器，目前是收费使用，自行安装即可�
    >
    > 点击*验证图片上传选项*
 
-## other references
+## References
 
 > https://picgo.github.io/PicGo-Doc/zh/guide/config.html
 >
